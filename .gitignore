@@ -1,0 +1,7 @@
+/nbproject/
+/node_modules/
+/.tmp/
+/.sass-cache/
+/frontend/web/
+/backend/web/
+/vendor/
